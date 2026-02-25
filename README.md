@@ -103,6 +103,7 @@ Utilisez TABLE_PER_CLASS quand :
 <img width="1600" height="860" alt="Capture d’écran 2026-02-24 070529" src="https://github.com/user-attachments/assets/2c9ea58d-147e-4923-97c3-f8fd7a0f5031" />
 
 <img width="1600" height="860" alt="Capture d’écran 2026-02-24 070549" src="https://github.com/user-attachments/assets/30e0e9af-2674-46bd-8560-1651a63faab2" />
+<img width="936" height="315" alt="Capture d’écran 2026-02-25 145901" src="https://github.com/user-attachments/assets/d3b68182-fcfd-4e30-8d5f-b50c963bb8b5" />
 
  👨🎓 realisee par
 NESSAIBA MESSAADIYENE
